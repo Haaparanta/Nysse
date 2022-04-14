@@ -1,0 +1,12 @@
+WARNING! WARNING! Game has potentially loud music in it, so please adjust your volume in advance.
+
+This game aims to replicate what happens when a bus filled with students from Tampere make an excursion to an unnamed coastal city. Obviously this wouldn't be a problem, if it wasn't for the fact, that they forgot the importance of social distancing. Because of this mistake, they have all been exposed and turned to bats. 
+
+Your unfortunate part in this tragedy is to act as the responsible adult. In other words, you need to gather resources (hand sanitizer, face mask and toilet paper) and use your hard-earned resources to cure those in need. You can win the game by curing everyone. On the other hand, you can lose the game by letting the infection spread uncontrollably. 
+
+Scoring is based on gathered resources, cured students and the game duration.
+
+HOW TO:
+W-A-S-D -- move around the map as a drone
+R       -- gather nearby resources from the map
+Space   -- heal nearby bats if you have the resources
